@@ -6,5 +6,3 @@ This is a basic personal profile to practice HTML5 and common known standards an
 ### Check it out here
 
 test@pm.me
-
-
